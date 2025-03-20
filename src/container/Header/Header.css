@@ -1,0 +1,37 @@
+.app__header{
+    background-color: var(--color-black);
+}
+.custom__buttom{
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    background-color: var(--color-golden);
+    color: black;
+    border: none;
+
+}
+.app__header-h1{
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 70px;
+    font-size: 57px;
+}
+
+.app__wrapper_img img{
+    width: 100%;
+}
+.app__header .app__wrapper{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+
+
+
+
+
+
+
+
+
